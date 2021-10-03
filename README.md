@@ -2,7 +2,7 @@
 Speech corpus with mixed audio from TIDIGITS dataset.
 
 ## Data preparation
-1. Please set `TIDIGITS` variable inside `prepare_data.sh`
+1. Please specify the path of original [TIDIGITS](https://catalog.ldc.upenn.edu/LDC93S10) dataset by setting the `TIDIGITS` variable inside `prepare_data.sh`
 2. Run `./prepare_data.sh`
 
 ## 2mix data description
